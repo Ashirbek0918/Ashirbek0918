@@ -1,33 +1,19 @@
-<h1 align="center">PHP Developer</h1>
+<h1 align="center">Hi 👋, I'm Ashirbek</h1>
+<h3 align="center">A Back end developer from Beruniy,Karakalpakstan,Uzbekistan</h3>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+- 🔭 I’m currently working on **Laravel**
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+- 🌱 I’m currently learning **Redis, Docker,Microservices**
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+- 🤝 I’m looking for help with **Microservices**
 
-[![Telegram Badge](https://img.shields.io/badge/@Ashirbek-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Ashirbek10)](https://t.me/sukhrobnuraliev) 
+- 💬 Ask me about **Php**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-  
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-- :computer: I'm currently working on Laravel 
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :muscle: Do Bodybuilding & Calisthenics
-
-## ⚡ Technologies
-
-![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashirbek0918&show_icons=true&theme=gotham" alt="Ashirbek0918" />
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ashirbek0918&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Ashirbek0918" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashirbek0918&show_icons=true&locale=en&layout=compact" alt="ashirbek0918" /></p>
